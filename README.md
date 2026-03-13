@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-Developer-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-green)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
+
 🎓 Software Development Student at BYU–Idaho  
 📊 Google Data Analytics Certified  
 💻 Interested in Software Development, Data Analysis, and Technical Support roles  
